@@ -14,5 +14,6 @@
         "titleBar.inactiveBackground": "#799ec599",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#799ec5"
+    "peacock.color": "#799ec5",
+    "python.analysis.typeCheckingMode": "off"
 }
